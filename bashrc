@@ -1,5 +1,4 @@
 # environments
-HOME=/u/hehe
 
 # git alias
 alias ga='git add'
