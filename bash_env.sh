@@ -4,7 +4,7 @@ cp bash/dir_colors ~/.dir_colors
 
 git clone https://github.com/hhexiy/vimrc.git
 mv vimrc ~/.vim_runtime
-mv ~/.vim_runtime ~/.vimrc
+mv ~/.vim_runtime/vimrc ~/.vimrc
 
 git clone https://github.com/altercation/solarized.git
 
